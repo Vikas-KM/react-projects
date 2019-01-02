@@ -9,6 +9,13 @@ const ProjectList = () => {
       url: "https://vikas-km.github.io/persons-list/",
       desc:
         "Explains the prop passing from one component to the other component."
+    },
+    {
+      id: 2,
+      name: "Persons List",
+      url: "https://vikas-km.github.io/persons-list/",
+      desc:
+        "Explains the prop passing from one component to the other component."
     }
   ];
 
