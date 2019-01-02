@@ -6,10 +6,10 @@ const Project = props => {
   return (
     <div className={classes.project}>
       <div>
-        <h2>Project Title = {name}</h2>
+        <h2>Project = {name}</h2>
         <h3>
           <a href={url} target="_blank" rel="noopener noreferrer">
-            Project Link
+            Link
           </a>
         </h3>
       </div>
