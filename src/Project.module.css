@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.project {
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #eee;
+  width: 100%;
+  border-bottom: 3px solid #333;
+}
+h2 {
+  color: crimson;
+  margin-bottom: 10px;
+}
+
+.project:hover {
+  background-color: #ccc;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h5 {
+  margin-top: 10px;
+}
