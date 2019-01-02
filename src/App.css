@@ -6,9 +6,8 @@
 .App {
   background-color: #282c34;
   color: white;
-  line-height: 110px;
-  /* padding-right: 40px; */
-  /* padding-left: 40px; */
+  line-height: 70px;
+  padding: 20px;
   font-size: 2rem;
   width: 100%;
   text-align: center;
