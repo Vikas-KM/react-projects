@@ -14,6 +14,7 @@ const ProjectList = () => {
 
   return (
     <div>
+      {/* using the map to pass the each project details to the project component */}
       {projects.map(project => (
         <Project project={project} key={project.id} />
       ))}
