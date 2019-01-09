@@ -7,7 +7,7 @@ const Project = props => {
   return (
     <div className={classes.project}>
       <div>
-        <h2>Project = {name}</h2>
+        <h2> Project: {name} </h2>
         <h3>
           {/* noopener noreferrer is for security */}
           <a href={url} target="_blank" rel="noopener noreferrer">
@@ -21,5 +21,4 @@ const Project = props => {
     </div>
   );
 };
-
 export default Project;
