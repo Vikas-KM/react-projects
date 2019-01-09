@@ -1,6 +1,6 @@
-import React from 'react';
-import Project from './Project';
-import ProjectList from './ProjectList';
+import React from "react";
+import Project from "./Project";
+import ProjectList from "./ProjectList";
 
 const Projects = () => (
   <div>
